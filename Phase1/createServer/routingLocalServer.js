@@ -1,7 +1,6 @@
 const http = require('http'); // Built-in module
 const fs = require('fs');
 const path = require('path');
-const { log } = require('console');
 
 // Create server
 const server = http.createServer((req, res) => {
