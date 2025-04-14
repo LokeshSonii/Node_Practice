@@ -29,3 +29,9 @@ switch(operation){
         console.log('Invalid operation. Please use add, subtract, multiply, or divide.');
         break;
 }
+
+// We can also call it like Commmand Line Tool (CLT) or Command Line Application (CLA).
+// I didn't practice this Command Line Tool much.
+
+// The above methods in which we are taking inputs from command line is also know as CLI (Command Line Interface) method.
+// The above code is a simple calculator that takes command line arguments to perform basic arithmetic operations. It uses the `mathUtil` module to perform the calculations. The user can specify the operation (add, subtract, multiply, divide) and the two numbers as command line arguments. The code then performs the specified operation and prints the result to the console.
